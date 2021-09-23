@@ -1,0 +1,25 @@
+.mynav{
+    background-color: black;
+    color: white;
+}
+
+.li-flex {
+    position: relative;
+    text-align: center;
+    margin-right: 83px;
+    top: 50px;
+    float: right;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+    padding: 2em 2em 2em 2em;
+}
+
+.flex-row-div{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
